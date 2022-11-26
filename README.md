@@ -11,10 +11,12 @@
 : Only open rick roll when you run the script, won't create a clone. </li> </br>
 
 <li> <a href="https://github.com/caodoc/"> script_3 </a>
-: Same as script_2, but you can rename it to disguise it as their default browser shortcut, higher chance to be rick rolled. </li> </br>
+: Same as script_2, but you can rename it to disguise it as their default browser shortcut, higher chance to be rick rolled. </li> 
 </ul>
 
 </p>
+
+<hr>
 
 <h3 align="center"> <strong> Attentions </strong> </h3>
 
