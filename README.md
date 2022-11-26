@@ -21,10 +21,14 @@
 <h3 align="center"> <strong> Attentions </strong> </h3>
 
 <p algin="left">
-    <a href="https://github.com/caodoc/rick_roll/blob/main/script_1.bat"> script_1 </a>
-is based on this <a href="https://github.com/MauriceNorden/rick-roll"> code. </a> </br>
-    You can replace link in each scripts the link you wanted to. </br>
-    Location of <a href="https://github.com/caodoc/rick_roll/blob/main/script_1.bat"> script_1 </a> 's clone: </br>
+<ul>
+<li> <a href="https://github.com/caodoc/rick_roll/blob/main/script_1.bat"> script_1 </a>
+is based on this <a href="https://github.com/MauriceNorden/rick-roll"> code. </a> </li> </br>
+<li> You can replace link in each scripts the link you wanted to. </li> </br>
+<li> Location of <a href="https://github.com/caodoc/rick_roll/blob/main/script_1.bat"> script_1 </a> 's clone: 
+</li> 
+</br>
+</ul>
 </p>
 
 ```
