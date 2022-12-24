@@ -35,6 +35,8 @@
 %AppData%\Microsoft\Windows\Start Menu\Programs\Startup\
 ```
 
+<hr>
+
 <p align="left">
     <img src="https://img.shields.io/github/last-commit/caodoc/rick_roll?style=for-the-badge">
 </p>
