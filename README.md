@@ -39,4 +39,7 @@
 
 <p align="left">
     <img src="https://img.shields.io/github/last-commit/caodoc/rick_roll?style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/m/caodoc/rick_roll?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/caodoc/rick_roll?style=for-the-badge">
+    <img src="https://img.shields.io/github/repo-size/caodoc/rick_roll?style=for-the-badge">
 </p>
